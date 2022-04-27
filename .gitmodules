@@ -1,0 +1,3 @@
+[submodule "yorkie-js-sdk"]
+	path = yorkie-js-sdk
+	url = https://github.com/yorkie-team/yorkie-js-sdk.git
